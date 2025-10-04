@@ -38,6 +38,7 @@ dependencies:
   flutter_launcher_icons: ^0.14.4
   flutter_spinkit: ^5.2.2
   change_app_package_name: ^1.4.0
+  url_launcher: ^6.3.2
 
 dev_dependencies:
   flutter_test:
